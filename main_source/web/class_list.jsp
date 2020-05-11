@@ -152,7 +152,7 @@
                             <h4 class="card-title">
                                 <a href="#">Item Five</a>
                             </h4>
-                            <!--<h5>$24.99</h5>-->
+                            <h5>$24.99</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
                         </div>
                         <div class="card-footer">
