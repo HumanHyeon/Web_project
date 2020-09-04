@@ -41,7 +41,7 @@ import org.springframework.web.context.request.WebRequest;
  *
  *  Copyright (C) by MOPAS All right reserved.
  */
-public class EgovBindingInitializer implements WebBindingInitializer {
+public class BindingInitializer implements WebBindingInitializer {
 
 	/**
 	* initBinder
